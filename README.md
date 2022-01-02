@@ -1,2 +1,10 @@
-# cinema-room-REST-service
- This application simulates the operation of a cinema room
+<h3>Title:</h3> Cinema Room REST Service
+<h3>Language:</h3> English
+<h3>Summary:</h3> Always wanted to have your private movie theater and screen only the movies
+you like? You can buy a fancy projector and set it up in a garage, but how can you
+sell tickets? Having a booth is old-fashioned, so let's create a special service
+for that! Make good use of Spring and write a REST service that can show the available
+seats, sell and refund tickets, and display the statistics of your venue. Pass me
+the popcorn, please!
+<h3>programming_language:</h3> Java
+<h3>programming_language_version:</h3> 11
